@@ -1,0 +1,15 @@
+body {
+  background: #f8f9fa;
+}
+
+h1 {
+  color: #160536;
+}
+
+.event-card h5 {
+  color: #343a40;
+}
+
+.event-card button {
+  min-width: 60px;
+}
